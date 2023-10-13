@@ -1,1 +1,1 @@
-# EJS_Workflow
+# Basic EJS_Workflow
